@@ -1,3 +1,3 @@
-module cgo-hello-cpp
+module cgo-hello-cxx
 
 go 1.17

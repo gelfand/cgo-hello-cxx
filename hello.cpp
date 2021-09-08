@@ -4,7 +4,7 @@ extern "C"
     #include "hello.h"
 }
 
-void HelloCPP(const char* s)
+void HelloCXX(const char* s)
 {
     std::cout << s << std::endl;
 }

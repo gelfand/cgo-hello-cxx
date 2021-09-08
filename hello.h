@@ -1,2 +1,2 @@
 void HelloC(const char* s);
-void HelloCPP(const char* s);
+void HelloCXX(const char* s);
